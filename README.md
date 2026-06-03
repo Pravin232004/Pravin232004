@@ -1,4 +1,4 @@
-# Hi, I'm Pravin Kumar D 👋
+# Hi, I'm Pravin👋
 
 ## Aspiring Data Scientist
 
